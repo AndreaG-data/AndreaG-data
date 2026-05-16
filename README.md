@@ -1,16 +1,44 @@
-## Hi there 👋
+# Hi, I'm Andrea 👋
 
-<!--
-**AndreaG-data/AndreaG-data** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Engineering student at Polytech Clermont specializing in Data Science and Mathematical Engineering.
 
-Here are some ideas to get you started:
+I am interested in machine learning, quantitative finance and credit risk modelling, with a strong interest in applying AI and data-driven methods to finance and healthcare.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Technical Skills
+
+### Languages
+- Python
+- C / C++
+- SQL
+- Java
+
+### AI & Data
+- Machine Learning
+- Deep Learning
+- Computer Vision
+- Data Analysis
+
+### Tools & Libraries
+- Pandas
+- NumPy
+- Scikit-learn
+- PyTorch
+- OpenCV
+- Git & GitHub
+
+## 📂 Featured Projects
+- Parkinson’s disease detection using handwriting trajectory analysis
+- Credit risk and expected loss prediction
+- YOLO-based computer vision project
+- Tetris game in C
+- Battleship game in Python
+
+## 🎯 Career Interests
+- Quantitative Finance
+- Credit Risk Modelling
+- Data Science
+- AI for Finance
+
+## 📫 Contact
+- LinkedIn: www.linkedin.com/in/andréa-gelie-633b14386
+  
