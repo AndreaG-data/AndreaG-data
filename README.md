@@ -27,10 +27,10 @@ I am interested in machine learning, quantitative finance and credit risk modell
 - Git & GitHub
 
 ## 📂 Featured Projects
-- Parkinson’s disease detection using handwriting trajectory analysis
-- Credit risk and expected loss prediction
+- Credit risk modelling and expected loss prediction
+- Synthetic signature generation for biometric verification using Deep Learning, DTW and statistical classifiers
 - YOLO-based computer vision project
-- Tetris game in C
+- Tetris game in C++ using Qt
 - Battleship game in Python
 
 ## 🎯 Career Interests
