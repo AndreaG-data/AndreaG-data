@@ -2,7 +2,7 @@
 
 🎓 Engineering student at Polytech Clermont specializing in Data Science and Mathematical Engineering.
 
-I am interested in machine learning, quantitative finance and credit risk modelling, with a strong interest in applying AI and data-driven methods to finance and healthcare.
+I am interested in machine learning, deep learning, statistical modelling and data analytics, with a strong interest in applying AI and data-driven methods to real-world challenges, particularly in finance.
 
 ## 🛠 Technical Skills
 
@@ -24,6 +24,7 @@ I am interested in machine learning, quantitative finance and credit risk modell
 - Scikit-learn
 - PyTorch
 - OpenCV
+- Power BI
 - Git & GitHub
 
 ## 📂 Featured Projects
